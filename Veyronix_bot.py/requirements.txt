@@ -1,0 +1,4 @@
+Flask
+requests
+duckduckgo_search
+gunicorn
